@@ -1,2 +1,5 @@
 # hello-world
-Hello
+
+Hello Humans!
+
+Never give up.
